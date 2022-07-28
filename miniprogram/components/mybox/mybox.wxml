@@ -1,0 +1,4 @@
+<!--components/mybox/mybox.wxml-->
+<view class="mybox">
+    <text>首页</text>
+</view>
